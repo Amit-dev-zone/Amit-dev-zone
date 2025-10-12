@@ -20,7 +20,7 @@
 
 ## 🏆 Achievements
 
--  ![Banner](./banr.png)
+-  ![Banner](./22.png)
 - 🌟 Contributed to open-source projects  
 - 🧠 Built multiple responsive websites  
 - 💡 Learning React and Tailwind CSS  
