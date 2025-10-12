@@ -1,6 +1,5 @@
 # Amit-dev-zone
 
-# Amit-dev-zone
 # 👋 Welcome to My GitHub Profile!
 
 ![Banner](./banner.png)
