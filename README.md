@@ -2,7 +2,7 @@
 
 # 👋 Welcome to My GitHub Profile!
 
-![Banner](./banner.png)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Amit;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
 ## 👩‍💻 About Me
