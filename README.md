@@ -22,7 +22,11 @@
 
 - 🌟 Contributed to open-source projects  
 - 🧠 Built multiple responsive websites  
-- 💡 Learning React and Tailwind CSS  
+- 💡 Learning React and Tailwind CSS
+
+## 🏆 Holopin Badges
+
+[![Holopin board](https://holopin.io/api/user/@amitsys21/badges)](https://holopin.io/@amitsys21)
 
 ## 📫 Connect with Me
 
