@@ -25,7 +25,7 @@
 - 💡 Learning React and Tailwind CSS
 
 ## 🏆 Holopin Badges
-
+Here are some of the digital badges I’ve earned:
 [![Holopin board](https://holopin.io/api/user/@amitsys21/badges)](https://holopin.io/@amitsys21)
 
 ## 📫 Connect with Me
