@@ -24,9 +24,12 @@
 - 🧠 Built multiple responsive websites  
 - 💡 Learning React and Tailwind CSS
 
-## 🏆 Holopin Badges
-Here are some of the digital badges I’ve earned:
-[![Holopin board](https://holopin.io/api/user/@amitsys21/badges)](https://holopin.io/@amitsys21)
+
+## 🏆 My Holopin Badges
+
+![Badge 1](https://assets.holopin.io/hf2025levels/lvl0-alien.webp)
+![Badge 2](https://holopin.io/badge/yourbadgeid2)
+![Badge 3](https://holopin.io/badge/yourbadgeid3)
 
 ## 📫 Connect with Me
 
