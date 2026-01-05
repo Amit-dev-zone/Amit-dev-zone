@@ -27,10 +27,14 @@
 
 ## 🏆 My Holopin Badges
 
+<p>
 <img src="https://assets.holopin.io/hf2025levels/lvl0-alien.webp" width="80" height="80"/>
 <img src="https://assets.holopin.io/hf2025levels/lvl1-alien.webp" width="80" height="80"/> 
 <img src="https://assets.holopin.io/hf2025levels/lvl2-alien.webp" width="80" height="80"/>
 <img src="https://assets.holopin.io/hf2025levels/lvl3-alien.webp" width="80" height="80"/> 
+</p>
+
+
 <img src="https://assets.holopin.io/hf2025levels/lvl4-alien.webp" width="80" height="80"/> 
 <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="80" height="80"/> 
 <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWczMXR3bnAwMDAwbGEwNGQxejRuN3B3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="80" height="80"/> 
