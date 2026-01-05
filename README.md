@@ -27,7 +27,7 @@
 
 ## 🏆 My Holopin Badges
 
-![Badge 1](https://assets.holopin.io/hf2025levels/lvl0-alien.webp)
+<img src="https://assets.holopin.io/hf2025levels/lvl0-alien.webp" width="80" height="80"/>
 ![Badge 2](https://holopin.io/badge/yourbadgeid2)
 ![Badge 3](https://holopin.io/badge/yourbadgeid3)
 
