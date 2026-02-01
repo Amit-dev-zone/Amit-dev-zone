@@ -50,7 +50,7 @@ I am a **B.Tech CSE student** passionate about building scalable web application
 <img src="https://assets.holopin.io/hf2025levels/lvl4-alien.webp" width="80" height="80"/> 
 <img src="https://assets.holopin.io/hf2025levels/lvl5-alien.webp" width="80" height="80"/> 
 </p>
-<img src="swoc ticket.jpg">
+<img src="swoc ticket.jpg" width="450" height="150">
 
 <p align="center">
   <a href="https://github.com/Amit-dev-zone">
