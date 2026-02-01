@@ -39,6 +39,7 @@
 <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="80" height="80"/> 
 <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWczMXR3bnAwMDAwbGEwNGQxejRuN3B3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="80" height="80"/> 
 <img src="https://assets.holopin.io/hf2025levels/lvl5-alien.webp" width="80" height="80"/> 
+<hr/>  
 </p>
 
 
