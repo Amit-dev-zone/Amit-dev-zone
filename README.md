@@ -53,10 +53,17 @@ I am a **B.Tech CSE student** passionate about building scalable web application
 <img src="swoc ticket.jpg" width="450" height="150">
 
 <p align="center">
+  <a href="https://github.com/Amit-dev-zone">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=The%20beautiful%20thing%20about%20learning%20is%20that%20nobody%20can%20take%20it%20away%20from%20you.&author=&theme=radical" alt="Quote" />
+  </a>
+</p>
+
+<!-- 
+<p align="center">
   <a href="https://github.com/Amit-dev-zone">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=The%20beautiful%20thing%20about%20learning%20is%20that%20nobody%20can%20take%20it%20away%20from%20you.&author=B.B.%20King&theme=radical" alt="Quote" />
   </a>
-</p>
+</p> -->
 
 ---
 
