@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-🎓 **B.Tech CSE (1st Year) @ IIIT Kalyani**
+🎓 **B.Tech CSE (2nd Year) @ IIIT Kalyani**
 💻 Passionate about building **scalable web applications & automation tools**
 
 I work at the intersection of:
