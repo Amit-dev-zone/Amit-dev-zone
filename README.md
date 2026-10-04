@@ -58,7 +58,7 @@ I work at the intersection of:
 
 ## 🚀 Featured Projects
 
-### 🏡 Wonderlust — Airbnb-like Booking Platform *(In Progress)*
+### 🏡 Wanderlust — Airbnb-like Booking Platform 
 
 **Tech:** React, Node.js, Express, MongoDB, Tailwind, Razorpay, Mapbox
 
